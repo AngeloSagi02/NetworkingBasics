@@ -7,9 +7,6 @@ Collection of network design and configuration exercises developed during the
 **Progettazione di Sistemi e Reti** — Computer Engineering, Unisannio
 
 ## 📂 Contents
-
-| Topics |
-|---|---|
 | Network topology design, protocol implementation, multi-layer architectures |
 | HelloServlet | Servlet-based client-server web application |
 
